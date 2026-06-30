@@ -58,63 +58,19 @@ Thank you for checking out my profile.
 
 ### DevOps
 
-<table>
-<tr>
-<td valign="top" width="50%">
+**Distros** &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://ubuntu.com/server/docs"><img src="https://skillicons.dev/icons?i=ubuntu" /></a> <a href="https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux"><img src="https://skillicons.dev/icons?i=redhat" /></a>
 
-**Distros**
+**Containers** &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://docs.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a> <a href="https://kubernetes.io/docs/home/"><img src="https://skillicons.dev/icons?i=kubernetes" /></a>
 
-<p>
-<a href="https://ubuntu.com/server/docs"><img src="https://skillicons.dev/icons?i=ubuntu" /></a>
-<a href="https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux"><img src="https://skillicons.dev/icons?i=redhat" /></a>
-</p>
+**CI/CD** &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.jenkins.io/doc/"><img src="https://skillicons.dev/icons?i=jenkins" /></a> <a href="https://docs.github.com/en/actions"><img src="https://skillicons.dev/icons?i=githubactions" /></a>
 
-**CI/CD**
+**IaC** &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://developer.hashicorp.com/terraform/docs"><img src="https://skillicons.dev/icons?i=terraform" /></a>
 
-<p>
-<a href="https://www.jenkins.io/doc/"><img src="https://skillicons.dev/icons?i=jenkins" /></a>
-<a href="https://docs.github.com/en/actions"><img src="https://skillicons.dev/icons?i=githubactions" /></a>
-</p>
+**Web Server / Reverse Proxy** &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://nginx.org/en/docs/"><img src="https://skillicons.dev/icons?i=nginx" /></a>
 
-**Web Server / Reverse Proxy**
+**Cloud** &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://docs.aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" /></a> <a href="https://learn.microsoft.com/en-us/azure/"><img src="https://skillicons.dev/icons?i=azure" /></a>
 
-<p>
-<a href="https://nginx.org/en/docs/"><img src="https://skillicons.dev/icons?i=nginx" /></a>
-</p>
-
-</td>
-<td valign="top" width="50%">
-
-**Containers**
-
-<p>
-<a href="https://docs.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
-<a href="https://kubernetes.io/docs/home/"><img src="https://skillicons.dev/icons?i=kubernetes" /></a>
-</p>
-
-**IaC**
-
-<p>
-<a href="https://developer.hashicorp.com/terraform/docs"><img src="https://skillicons.dev/icons?i=terraform" /></a>
-</p>
-
-**Cloud**
-
-<p>
-<a href="https://docs.aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" /></a>
-<a href="https://learn.microsoft.com/en-us/azure/"><img src="https://skillicons.dev/icons?i=azure" /></a>
-</p>
-
-</td>
-</tr>
-</table>
-
-**Monitoring Stack**
-
-<p>
-<a href="https://prometheus.io/docs/introduction/overview/"><img src="https://skillicons.dev/icons?i=prometheus" /></a>
-<a href="https://grafana.com/docs/"><img src="https://skillicons.dev/icons?i=grafana" /></a>
-</p>
+**Monitoring Stack** &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://prometheus.io/docs/introduction/overview/"><img src="https://skillicons.dev/icons?i=prometheus" /></a> <a href="https://grafana.com/docs/"><img src="https://skillicons.dev/icons?i=grafana" /></a>
 
 
 ### Currently Interested In
