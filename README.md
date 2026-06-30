@@ -1,72 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:2496ED&height=200&section=header&text=Vimukthi%20Herath&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20Cloud%20%7C%20Backend&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:034d2f,50:00b894,100:00ffaa&height=200&section=header&text=Vimukthi%20Herath&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20Cloud%20%7C%20Project%20Management&descAlignY=55&descSize=18"/>
 
-<a href="https://www.linkedin.com/in/vimukthi-h/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:vimukthiherath123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00FFAA&center=true&vCenter=true&width=650&lines=I+build+cool+stuff;I+build+fault-tolerant+systems;Java+%7C+JavaScript+%7C+Go+%7C+C;React+%7C+Spring+Boot+%7C+PostgreSQL;I+deploy+and+I+monitor;AWS+%7C+Azure;Docker+%7C+Kubernetes+%7C+CI%2FCD+%7C+Nginx"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Deploying+on+raw+Linux+VPS%2C+not+managed+platforms;Docker+%2B+Nginx+%2B+CI%2FCD+%2B+Monitoring;Building+systems+that+don't+fall+over;Go+%7C+Java+%7C+JavaScript+%7C+C%2FC%2B%2B"/>
-
-</div>
-
----
-
-### 🛠 What I actually do
-
-I don't just write code — I deploy it, monitor it, and keep it alive on infrastructure I built myself. My main project runs on a **raw Linux VPS** (no managed platform shortcuts) with a complete production stack: reverse proxy, SSL, CI/CD, horizontal scaling, and full observability.
-
-```
-Internet
-    ↓
-Nginx (Reverse Proxy + SSL)
-    ↓                    ↓
-Frontend (React/Nginx)   /tasks, /health
-                         ↓
-                 Load Balancer (Nginx upstream)
-                    ↓        ↓        ↓
-               backend-1  backend-2  backend-3
-                 (Go API)  (Go API)  (Go API)
-                    ↓        ↓        ↓
-                  PostgreSQL Database
-                         ↓
-                  AWS S3 (Backups)
-
-Monitoring Stack:
-Prometheus → metrics  |  Node Exporter → server stats
-Grafana → dashboards  |  Loki + Promtail → centralized logs
-```
-
-Running cost: **$7.50/mo**. Fully containerized, fully automated, fully mine.
-
----
-
-<div align="center">
-
-### ⚙️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=go,java,js,c,cpp,python,flutter&theme=dark" /><br><br>
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,nginx,azure,linux&theme=dark" /><br><br>
-<img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=dark" /><br><br>
-<img src="https://skillicons.dev/icons?i=spring,react,postgres,opencv,git,postman&theme=dark" />
-
-</div>
-
----
-
-### 📌 Pinned repos say more than I can in a paragraph — check them out below ↓
-
----
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=VimukthiHerath&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VimukthiHerath&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VimukthiHerath&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VimukthiHerath&theme=tokyo-night&hide_border=true" width="100%"/>
+<a href="https://www.linkedin.com/in/vimukthi-h/"><img src="https://img.shields.io/badge/LinkedIn-00b894?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:vimukthiherath123@gmail.com"><img src="https://img.shields.io/badge/Gmail-00ffaa?style=for-the-badge&logo=gmail&logoColor=black"/></a>
 
 </div>
 
@@ -74,8 +13,110 @@ Running cost: **$7.50/mo**. Fully containerized, fully automated, fully mine.
 
 <div align="center">
 
-<i>Currently deep in CI/CD pipelines, Kubernetes, and trying to make infrastructure that doesn't page me at 3am.</i>
+# Hey, I'm Vimukthi Herath
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2496ED,100:00ADD8&height=100&section=footer"/>
+### I build. I deploy. I monitor.
+
+Thank you for checking out my profile.
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚙️ Tech Stack
+
+</div>
+
+### Languages
+
+<p>
+<a href="https://go.dev/doc/"><img src="https://skillicons.dev/icons?i=go" /></a>
+<a href="https://docs.oracle.com/en/java/"><img src="https://skillicons.dev/icons?i=java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
+<a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" /></a>
+<a href="https://en.cppreference.com/w/cpp"><img src="https://skillicons.dev/icons?i=cpp" /></a>
+<a href="https://docs.python.org/3/"><img src="https://skillicons.dev/icons?i=python" /></a>
+</p>
+
+### Frameworks
+
+<p>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
+<a href="https://docs.spring.io/spring-boot/index.html"><img src="https://skillicons.dev/icons?i=spring" /></a>
+<a href="https://www.postgresql.org/docs/"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+<a href="https://gin-gonic.com/docs/"><img src="https://skillicons.dev/icons?i=go" /></a>
+</p>
+
+### DevOps
+
+**Distros**
+
+<p>
+<a href="https://ubuntu.com/server/docs"><img src="https://skillicons.dev/icons?i=ubuntu" /></a>
+<a href="https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux"><img src="https://skillicons.dev/icons?i=redhat" /></a>
+</p>
+
+**Containers**
+
+<p>
+<a href="https://docs.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
+<a href="https://kubernetes.io/docs/home/"><img src="https://skillicons.dev/icons?i=kubernetes" /></a>
+</p>
+
+**CI/CD**
+
+<p>
+<a href="https://www.jenkins.io/doc/"><img src="https://skillicons.dev/icons?i=jenkins" /></a>
+<a href="https://docs.github.com/en/actions"><img src="https://skillicons.dev/icons?i=githubactions" /></a>
+</p>
+
+**IaC**
+
+<p>
+<a href="https://developer.hashicorp.com/terraform/docs"><img src="https://skillicons.dev/icons?i=terraform" /></a>
+</p>
+
+**Web Server / Reverse Proxy**
+
+<p>
+<a href="https://nginx.org/en/docs/"><img src="https://skillicons.dev/icons?i=nginx" /></a>
+</p>
+
+**Cloud**
+
+<p>
+<a href="https://docs.aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" /></a>
+<a href="https://learn.microsoft.com/en-us/azure/"><img src="https://skillicons.dev/icons?i=azure" /></a>
+</p>
+
+**Monitoring Stack**
+
+<p>
+<a href="https://prometheus.io/docs/introduction/overview/"><img src="https://skillicons.dev/icons?i=prometheus" /></a>
+<a href="https://grafana.com/docs/"><img src="https://skillicons.dev/icons?i=grafana" /></a>
+</p>
+
+### Currently Interested In
+
+<p>
+<a href="https://fortran-lang.org/learn/"><img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white"/></a>
+<a href="https://www.adacore.com/documentation"><img src="https://img.shields.io/badge/Ada-02f88c?style=for-the-badge&logo=ada&logoColor=black"/></a>
+<a href="https://elixir-lang.org/docs.html"><img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"/></a>
+<a href="https://www.swi-prolog.org/pldoc/doc_for?object=manual"><img src="https://img.shields.io/badge/Prolog-008000?style=for-the-badge&logoColor=white"/></a>
+</p>
+
+---
+
+<div align="center">
+
+Computer Science undergraduate at SLIIT, passionate about DevOps, Linux systems, Project Management. I enjoy working close to the infrastructure — automation, containerization, CI/CD, and everything in between. Naturally lean towards leadership and a quick learner, always looking to grow in environments where technology meets real-world impact.
+
+**Let's collaborate and build cool stuff.**
+
+<a href="mailto:vimukthiherath123@gmail.com"><img src="https://img.shields.io/badge/Gmail-00ffaa?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffaa,50:00b894,100:034d2f&height=100&section=footer"/>
 
 </div>
