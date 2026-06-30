@@ -72,7 +72,7 @@ Thank you for checking out my profile.
 
 <table align="center">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="14.28%">
 
 **Distros**
 
@@ -80,7 +80,7 @@ Thank you for checking out my profile.
 <a href="https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux"><img src="https://skillicons.dev/icons?i=redhat" /></a>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="14.28%">
 
 **Containers**
 
@@ -88,7 +88,7 @@ Thank you for checking out my profile.
 <a href="https://kubernetes.io/docs/home/"><img src="https://skillicons.dev/icons?i=kubernetes" /></a>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="14.28%">
 
 **CI/CD**
 
@@ -96,23 +96,21 @@ Thank you for checking out my profile.
 <a href="https://docs.github.com/en/actions"><img src="https://skillicons.dev/icons?i=githubactions" /></a>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="14.28%">
 
 **IaC**
 
 <a href="https://developer.hashicorp.com/terraform/docs"><img src="https://skillicons.dev/icons?i=terraform" /></a>
 
 </td>
-</tr>
-<tr>
-<td align="center" width="25%">
+<td align="center" width="14.28%">
 
 **Web Server**
 
 <a href="https://nginx.org/en/docs/"><img src="https://skillicons.dev/icons?i=nginx" /></a>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="14.28%">
 
 **Cloud**
 
@@ -120,17 +118,12 @@ Thank you for checking out my profile.
 <a href="https://learn.microsoft.com/en-us/azure/"><img src="https://skillicons.dev/icons?i=azure" /></a>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="14.28%">
 
 **Monitoring**
 
 <a href="https://prometheus.io/docs/introduction/overview/"><img src="https://skillicons.dev/icons?i=prometheus" /></a>
 <a href="https://grafana.com/docs/"><img src="https://skillicons.dev/icons?i=grafana" /></a>
-
-</td>
-<td align="center" width="25%">
-
-&nbsp;
 
 </td>
 </tr>
