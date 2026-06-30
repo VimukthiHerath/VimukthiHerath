@@ -58,18 +58,15 @@ Thank you for checking out my profile.
 
 ### DevOps
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 **Distros**
 
 <p>
 <a href="https://ubuntu.com/server/docs"><img src="https://skillicons.dev/icons?i=ubuntu" /></a>
 <a href="https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux"><img src="https://skillicons.dev/icons?i=redhat" /></a>
-</p>
-
-**Containers**
-
-<p>
-<a href="https://docs.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
-<a href="https://kubernetes.io/docs/home/"><img src="https://skillicons.dev/icons?i=kubernetes" /></a>
 </p>
 
 **CI/CD**
@@ -79,16 +76,26 @@ Thank you for checking out my profile.
 <a href="https://docs.github.com/en/actions"><img src="https://skillicons.dev/icons?i=githubactions" /></a>
 </p>
 
-**IaC**
-
-<p>
-<a href="https://developer.hashicorp.com/terraform/docs"><img src="https://skillicons.dev/icons?i=terraform" /></a>
-</p>
-
 **Web Server / Reverse Proxy**
 
 <p>
 <a href="https://nginx.org/en/docs/"><img src="https://skillicons.dev/icons?i=nginx" /></a>
+</p>
+
+</td>
+<td valign="top" width="50%">
+
+**Containers**
+
+<p>
+<a href="https://docs.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
+<a href="https://kubernetes.io/docs/home/"><img src="https://skillicons.dev/icons?i=kubernetes" /></a>
+</p>
+
+**IaC**
+
+<p>
+<a href="https://developer.hashicorp.com/terraform/docs"><img src="https://skillicons.dev/icons?i=terraform" /></a>
 </p>
 
 **Cloud**
@@ -98,12 +105,17 @@ Thank you for checking out my profile.
 <a href="https://learn.microsoft.com/en-us/azure/"><img src="https://skillicons.dev/icons?i=azure" /></a>
 </p>
 
+</td>
+</tr>
+</table>
+
 **Monitoring Stack**
 
 <p>
 <a href="https://prometheus.io/docs/introduction/overview/"><img src="https://skillicons.dev/icons?i=prometheus" /></a>
 <a href="https://grafana.com/docs/"><img src="https://skillicons.dev/icons?i=grafana" /></a>
 </p>
+
 
 ### Currently Interested In
 
