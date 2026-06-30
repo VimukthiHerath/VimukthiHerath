@@ -45,8 +45,15 @@ Thank you for checking out my profile.
 <p>
 <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
 <a href="https://docs.spring.io/spring-boot/index.html"><img src="https://skillicons.dev/icons?i=spring" /></a>
-<a href="https://www.postgresql.org/docs/"><img src="https://skillicons.dev/icons?i=postgres" /></a>
 <a href="https://gin-gonic.com/docs/"><img src="https://skillicons.dev/icons?i=go" /></a>
+</p>
+
+### Databases
+
+<p>
+<a href="https://www.postgresql.org/docs/"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+<a href="https://dev.mysql.com/doc/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+<a href="https://redis.io/docs/latest/"><img src="https://skillicons.dev/icons?i=redis" /></a>
 </p>
 
 ### DevOps
