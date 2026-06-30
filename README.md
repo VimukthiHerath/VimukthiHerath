@@ -29,81 +29,112 @@ Thank you for checking out my profile.
 
 </div>
 
-### Languages
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-<p>
+**Languages**
+
 <a href="https://go.dev/doc/"><img src="https://skillicons.dev/icons?i=go" /></a>
 <a href="https://docs.oracle.com/en/java/"><img src="https://skillicons.dev/icons?i=java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
 <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" /></a>
 <a href="https://en.cppreference.com/w/cpp"><img src="https://skillicons.dev/icons?i=cpp" /></a>
 <a href="https://docs.python.org/3/"><img src="https://skillicons.dev/icons?i=python" /></a>
-</p>
 
-### Frameworks
+</td>
+<td align="center" width="33%">
 
-<p>
+**Frameworks**
+
 <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
 <a href="https://docs.spring.io/spring-boot/index.html"><img src="https://skillicons.dev/icons?i=spring" /></a>
 <a href="https://gin-gonic.com/docs/"><img src="https://skillicons.dev/icons?i=go" /></a>
-</p>
 
-### Databases
+</td>
+<td align="center" width="33%">
 
-<p>
+**Databases**
+
 <a href="https://www.postgresql.org/docs/"><img src="https://skillicons.dev/icons?i=postgres" /></a>
 <a href="https://dev.mysql.com/doc/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
 <a href="https://redis.io/docs/latest/"><img src="https://skillicons.dev/icons?i=redis" /></a>
-</p>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 ### DevOps
 
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
 **Distros**
 
-<p>
 <a href="https://ubuntu.com/server/docs"><img src="https://skillicons.dev/icons?i=ubuntu" /></a>
 <a href="https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux"><img src="https://skillicons.dev/icons?i=redhat" /></a>
-</p>
+
+</td>
+<td align="center" width="25%">
 
 **Containers**
 
-<p>
 <a href="https://docs.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
 <a href="https://kubernetes.io/docs/home/"><img src="https://skillicons.dev/icons?i=kubernetes" /></a>
-</p>
+
+</td>
+<td align="center" width="25%">
 
 **CI/CD**
 
-<p>
 <a href="https://www.jenkins.io/doc/"><img src="https://skillicons.dev/icons?i=jenkins" /></a>
 <a href="https://docs.github.com/en/actions"><img src="https://skillicons.dev/icons?i=githubactions" /></a>
-</p>
+
+</td>
+<td align="center" width="25%">
 
 **IaC**
 
-<p>
 <a href="https://developer.hashicorp.com/terraform/docs"><img src="https://skillicons.dev/icons?i=terraform" /></a>
-</p>
 
-**Web Server / Reverse Proxy**
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
 
-<p>
+**Web Server**
+
 <a href="https://nginx.org/en/docs/"><img src="https://skillicons.dev/icons?i=nginx" /></a>
-</p>
+
+</td>
+<td align="center" width="25%">
 
 **Cloud**
 
-<p>
 <a href="https://docs.aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" /></a>
 <a href="https://learn.microsoft.com/en-us/azure/"><img src="https://skillicons.dev/icons?i=azure" /></a>
-</p>
 
-**Monitoring Stack**
+</td>
+<td align="center" width="25%">
 
-<p>
+**Monitoring**
+
 <a href="https://prometheus.io/docs/introduction/overview/"><img src="https://skillicons.dev/icons?i=prometheus" /></a>
 <a href="https://grafana.com/docs/"><img src="https://skillicons.dev/icons?i=grafana" /></a>
-</p>
+
+</td>
+<td align="center" width="25%">
+
+&nbsp;
+
+</td>
+</tr>
+</table>
 
 
 ### Currently Interested In
